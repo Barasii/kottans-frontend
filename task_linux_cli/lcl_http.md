@@ -6,7 +6,7 @@
   
   I mentioned the most simple linux commands and acted on loops and conditions.
   
-	![alt-текст](0_cli.png)
+  ![alt-текст](0_cli.png)
   
   ![alt-текст](1_cli.png)
   
