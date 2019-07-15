@@ -13,7 +13,7 @@ My check list
 ### Front-End Basics
 3. [Intro to HTML & CSS](/task_html_css_intro/README.md)
 4. [Responsive Web Design](/task_responsive_web_design/README.md)
-5. [HTML & CSS Practice](/HTML-CSS-POPUP)
+5. [HTML & CSS Practice](Barasii/HTML-CSS-POPUP)
 6. [JS Basics](/\task_js_basics/README.md)
 
 [icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
