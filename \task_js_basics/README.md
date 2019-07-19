@@ -21,6 +21,8 @@ is very intensive..
   ![alt-текст](9.png)
   
   ![alt-текст](10.png)
+  
+  ![alt-текст](11.png)
 
 
 [back](../README.md)
