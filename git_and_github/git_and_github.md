@@ -6,4 +6,4 @@
 	![alt-текст](0_git.jpg)
 
 
-[back](../README.md)
+:arrow_heading_up: [back](../README.md)
