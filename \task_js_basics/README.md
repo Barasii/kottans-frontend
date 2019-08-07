@@ -25,4 +25,4 @@ is very intensive..
   ![alt-текст](11.png)
 
 
-[back](../README.md)
+:arrow_heading_up: [back](../README.md)
