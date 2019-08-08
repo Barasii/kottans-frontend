@@ -2,7 +2,7 @@
 ## Front-End Course  [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 
 
-My check list 
+> My check list 
 
 
 ### General Basics
