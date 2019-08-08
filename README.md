@@ -15,6 +15,7 @@
 - [x] 4. [Responsive Web Design](/task_responsive_web_design/README.md)
 - [x] 5. [HTML & CSS](../../../HTML-CSS-POPUP) Practice :point_left:
 - [x] 6. [JS Basics](/\task_js_basics/README.md)
+- [ ] 7. [DOM](/task_js_dom/README.md) Practice :point_left:
 
 [icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
 [kottans-frontend]: https://github.com/kottans/frontend
