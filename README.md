@@ -13,7 +13,7 @@
 ### Front-End Basics
 - [x] 3. [Intro to HTML & CSS](/task_html_css_intro/README.md)
 - [x] 4. [Responsive Web Design](/task_responsive_web_design/README.md)
-- [x] 5. [HTML & CSS Practice](../../../HTML-CSS-POPUP)
+- [x] 5. [HTML & CSS](../../../HTML-CSS-POPUP) Practice :point_left:
 - [x] 6. [JS Basics](/\task_js_basics/README.md)
 
 [icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
