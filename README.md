@@ -17,5 +17,9 @@
 - [x] 6. [JS Basics](/\task_js_basics/README.md)
 - [ ] 7. [DOM](/../../../DOM-menu) Practice :point_left:
 
+### Advanced Topics
+- [ ] 8. [a Tiny JS World (pre-OOP)](/../../../a) Practice :point_left:
+
+
 [icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
 [kottans-frontend]: https://github.com/kottans/frontend
