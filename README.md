@@ -15,7 +15,7 @@
 - [x] 4. [Responsive Web Design](/task_responsive_web_design/README.md)
 - [x] 5. [HTML & CSS](../../../HTML-CSS-POPUP) Practice :point_left:
 - [x] 6. [JS Basics](/\task_js_basics/README.md)
-- [ ] 7. [DOM](/../../../DOM-menu) Practice :point_left:
+- [x] 7. [DOM](/../../../DOM-menu) Practice :point_left:
 
 ### Advanced Topics
 - [x] 8. [a Tiny JS World (pre-OOP)](https://barasii.github.io/a-tiny-JS-world/) Practice :point_left:
