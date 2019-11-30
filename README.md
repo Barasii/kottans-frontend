@@ -21,6 +21,7 @@
 - [x] 8. [a Tiny JS World (pre-OOP)](https://barasii.github.io/a-tiny-JS-world/) Practice :point_left:
 - [x] 9. [Object Oriented JS](/task_js_oop/README.md)
 - [ ] 10. [OOP exercise](https://barasii.github.io/a-tiny-JS-world/) Practice :point_left:
+- [ ] 11. [Offline Web Applications](/task_offline_web_app/README.md)
 
 
 [icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
